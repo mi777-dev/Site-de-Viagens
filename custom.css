@@ -1,0 +1,101 @@
+body{
+ background-color:#01579b;
+ /* background-image: url(img/fundo.jpg);			
+background-repeat: no-repeat;
+background-size: cover;
+background-position-y: 400px;
+ overscroll-behavior-y:none;*/
+}
+
+.capa{
+  background-image:url(img/fundo.jpg);
+ background-repeat:no-repeat;
+ background-size: cover;
+ margin-top:25px;
+ height:2260px;
+
+ 
+}
+.brand-logo{
+	width:120px;
+	height:120px;
+	margin-top:5px;
+	margin-left:15px;
+}
+.graf{
+	margin-top:0px;
+	font-family: 'Permanent Marker', cursive;
+	font-size:40px;
+	padding-top:50px;
+	float:center;
+	padding-left:25px;
+	
+}
+.navegacao{
+
+margin-top:40px;
+background:rgba(240,248,255,0.75);
+
+/*overflow-y: scroll;
+height: 100vh;*/
+}
+ nav{
+	 padding-top:10px;
+	
+ }
+ conteiner {
+  /* div principal */
+}
+
+.ajuste{
+	width:36px;
+	height:36px;
+}
+.botao{
+	border-radius: 10px;
+    font-size:10px;
+	margin-left:15px;
+	margin-bottom:15px;
+}
+
+.titulo{
+font-family: 'Permanent Marker', cursive;	
+margin-left:15px;
+}
+ .fonte-ajuste{
+
+text-align:justify;
+font-size:14px;
+ }
+ textarea{
+  background-color:#eeeeee ;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  resize:none;
+  border: 1px solid #212121;
+  background-color:#eeeeee ;       
+  height: 5rem;
+  color: black;
+
+	 }
+	 .cartao{
+	 width:30%;
+	 height:30%;
+	margin-left:30%;
+	
+	 }
+.autor{
+	background-color:white;
+	border:1px solid #212121 ;
+	padding-top:45px;
+	padding-bottom:15px;
+	padding-left:5px;
+	padding-right:5px;
+	margin-top:55px;
+}
+.imagem-cartao{
+	padding-left:15px;
+	padding-right:15px;
+}
